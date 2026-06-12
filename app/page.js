@@ -1,15 +1,15 @@
-import Loader from "@/components/Loader";
-import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
-import WhyUs from "@/components/WhyUs"; // 
-import SignatureDishes from "@/components/SignatureDishes";
-import Experience from "@/components/Experience";
-import Gallery from "@/components/Gallery";
-import MenuPreview from "@/components/MenuPreview";
-import Testimonials from "@/components/Testimonials";
-import Reservation from "@/components/Reservation";
-import CTA from "@/components/CTA"; // 
-import Footer from "@/components/Footer";
+import Loader from "@/Components/Loader";
+import Navbar from "@/Components/Navbar";
+import Hero from "@/Components/Hero";
+import WhyUs from "@/Components/WhyUs"; // 
+import SignatureDishes from "@/Components/SignatureDishes";
+import Experience from "@/Components/Experience";
+import Gallery from "@/Components/Gallery";
+import MenuPreview from "@/Components/MenuPreview";
+import Testimonials from "@/Components/Testimonials";
+import Reservation from "@/Components/Reservation";
+import CTA from "@/Components/CTA"; // 
+import Footer from "@/Components/Footer";
 
 export const metadata = {
   title: "Fir Milenge | Luxury Vegetarian Fine Dining Restaurant Mumbai",
